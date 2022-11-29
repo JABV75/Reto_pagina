@@ -1,0 +1,41 @@
+header
+{
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    font-size: 140%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav
+{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    padding: 2px;
+    background-color: red;
+}
+nav ul li
+{
+    text-align: center;
+    display: inline-block;
+    width: 24%;
+    line-height: 50%;
+    list-style: none;
+}
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover
+{
+    color: blue;
+}
+section
+{
+    text-align: center;
+    font-size: 140%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
